@@ -1,9 +1,9 @@
 opam-version: "2.0"
 name: "satysfi-fonts-han-serif-jp"
 version: "1.001R"
-synopsis: "SATySFi Font Package for han serif JP fonts"
+synopsis: "SATySFi Font Package for han serif JP fonts（源ノ明朝）"
 description: """
-SATySFi font package for han serif JP fonts.
+SATySFi font package for han serif JP fonts（源ノ明朝）.
 
 This package installs fonts from https://github.com/adobe-fonts/source-han-serif.
 """
