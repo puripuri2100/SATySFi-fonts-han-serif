@@ -1,0 +1,22 @@
+(version 0.0.2)
+(library
+  (name "fonts-han-serif-jp")
+  (version "1.001R")
+  (sources
+    ((hash "fonts.satysfi-hash" "fonts.satysfi-hash")
+     (hash "mathfonts.satysfi-hash" "mathfonts.satysfi-hash")
+     (fontDir "SourceHanSerifJP")
+     ))
+  (opam "satysfi-fonts-han-serif-jp.opam"))
+(libraryDoc
+  (name "fonts-han-serif-jp-doc")
+  (version "1.001R")
+  (build
+    ((satysfi "doc-fonts-han-serif-jp.saty" "-o" "doc-fonts-han-serif-jp.pdf")))
+  (sources
+    ((doc "doc-fonts-han-serif-jp.pdf" "./doc-fonts-han-serif-jp.pdf")))
+  (opam "satysfi-fonts-han-serif-jp-doc.opam")
+  (dependencies (
+    (dist ())
+    (fonts-han-serif-jp ())
+    (lipsum ()))))

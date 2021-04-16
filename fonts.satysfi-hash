@@ -1,0 +1,9 @@
+{
+  "fonts-han-serif-jp:HanSerifJP-ExtraLight" : <Single: {"src": "dist/fonts/fonts-han-serif-jp/SourceHanSerifJP-ExtraLight.otf"}>,
+  "fonts-han-serif-jp:HanSerifJP-Light" : <Single: {"src": "dist/fonts/fonts-han-serif-jp/SourceHanSerifJP-Light.otf"}>,
+  "fonts-han-serif-jp:HanSerifJP-Regular" : <Single: {"src": "dist/fonts/fonts-han-serif-jp/SourceHanSerifJP-Regular.otf"}>,
+  "fonts-han-serif-jp:HanSerifJP-Medium" : <Single: {"src": "dist/fonts/fonts-han-serif-jp/SourceHanSerifJP-Medium.otf"}>,
+  "fonts-han-serif-jp:HanSerifJP-SemiBold" : <Single: {"src": "dist/fonts/fonts-han-serif-jp/SourceHanSerifJP-SemiBold.otf"}>,
+  "fonts-han-serif-jp:HanSerifJP-Bold" : <Single: {"src": "dist/fonts/fonts-han-serif-jp/SourceHanSerifJP-Bold.otf"}>,
+  "fonts-han-serif-jp:HanSerifJP-Heavy" : <Single: {"src": "dist/fonts/fonts-han-serif-jp/SourceHanSerifJP-Heavy.otf"}>
+}
