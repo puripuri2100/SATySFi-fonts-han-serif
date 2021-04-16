@@ -1,4 +1,4 @@
-# SATySFi-fonts-inconsolata
+# SATySFi-fonts-han-serif-jp
 [SATySFi](https://github.com/gfngfn/SATySFi) Font Library with [Satyrographos](https://github.com/na4zagin3/satyrographos): [Han Serif（源ノ明朝）](https://github.com/adobe-fonts/source-han-serif)
 
 To use this font, please install this package followed by `satyrographos install`.
@@ -8,7 +8,7 @@ To use this font, please install this package followed by `satyrographos install
 ## Satyrographos
 
 ```sh
-opam install satysfi-fonts-han-serif
+opam install satysfi-fonts-han-serif-jp
 
 satyrographos install
 ```
@@ -16,9 +16,9 @@ satyrographos install
 or
 
 ```sh
-opam pin add "git+https://github.com/puripuri2100/SATySFi-fonts-han-serif.git"
+opam pin add "git+https://github.com/puripuri2100/SATySFi-fonts-han-serif-jp.git"
 
-opam install satysfi-fonts-han-serif
+opam install satysfi-fonts-han-serif-jp
 
 satyrographos install
 ```
